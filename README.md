@@ -68,5 +68,5 @@ The model explains ~86% of price variance on unseen data. The gap between train 
 
 #### Outline of project
 
-- [EDA and Baseline Model](ames_housing_eda.ipynb)
+- [EDA and Baseline Model](ames_housing_eda.ipynb) [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gsphanikumar/predicting-home-prices/blob/main/ames_housing_eda.ipynb)
 
